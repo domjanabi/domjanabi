@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @domjanabi
-- 👀 I’m interested in programming, art, composing, performant code
+- 👀 I’m interested in programming, art, composing, and performant code
 - 🌱 I’m currently learning!
 - 💞️ I’m collaborating on flickjump with friends
 - 📫 How to reach me: @domjanabi
