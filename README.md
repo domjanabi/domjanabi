@@ -1,4 +1,4 @@
 - Hi, I’m domjanabi aka sprit_snek, aka dongerplonger, aka egg
 - I’m interested in programming, painting, composing, and performant code
 - I was collaborating on flickjump with friends, but that's currently on hold
-- you can check out my twitter account for irregular disappointment to give your life more thrill
+- you can check out my twitter account for irregular disappointment to give your life some more thrill
