@@ -1,4 +1,4 @@
 - Hi, I’m domjanabi aka sprit_snek
 - I’m interested in programming, painting, and composing
-- I was collaborating on flickjump with friends, but that's currently on hold
+- I was collaborating on flickjump with friends, but that's been discontinued
 - You can check out my twitter account for irregular disappointment to give your life some more thrill
