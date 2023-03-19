@@ -1,3 +1,3 @@
-- Hi, I’m domjanabi aka sprit_snek
-- I’m interested in programming(🦀, C++), painting, composing, and gamedev
-- I took part in the 2022 gmtk gamejam (https://domjanabi.itch.io/rock-and-roll-and-levitate)
+- C++ and Rust developer
+- Game dev
+- took part in the 2022 gmtk gamejam (https://domjanabi.itch.io/rock-and-roll-and-levitate)
